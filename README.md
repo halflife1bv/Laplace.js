@@ -16,7 +16,6 @@ An attempt to recreate the Monmusu Quest! Discord server's "Laplace" bot, <br>us
     * Assigns the NSFW role to the user.
   * /rebirth
     * Assigns a role to a user based on a pool of available roles, based on monster species / families.
-  * /eatshit <sup>coming™</sup>
-    * Eat shit. <sup>soon™</sup>
+  * /eatshit <sup>coming soon™</sup>
  * Welcoming Images
    * An image welcoming new users to the server, that contains the username and the avatar picture.
