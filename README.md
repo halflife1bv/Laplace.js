@@ -18,6 +18,7 @@ An attempt to recreate the Monmusu Quest! Discord server's "Laplace" bot, <br>us
     * Assigns a role to a user based on a pool of available roles, based on monster species / families.
   * /eatshit
     * Eat shit. <sup>coming soon™</sup>
+  * More to come...
  * **Welcoming Images:**
    * A custom image welcoming new users to the server, that contains the username and the avatar picture.
      * Uses Canvas.
