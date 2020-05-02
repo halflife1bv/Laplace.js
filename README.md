@@ -25,3 +25,4 @@ An attempt to recreate the Monmusu Quest! Discord server's "Laplace" bot, <br>us
  * **Server Profiles:**
    * Usage: '/profile' in any text channel.
    * Will display information such as avatar picture, activity rate, join date, total number of messages sent and a Level display based on the user's chosen monster species / family.
+     * Uses Canvas.
