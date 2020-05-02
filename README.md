@@ -19,4 +19,8 @@ An attempt to recreate the Monmusu Quest! Discord server's "Laplace" bot, <br>us
   * /eatshit
     * Eat shit. <sup>coming soon™</sup>
  * **Welcoming Images:**
-   * An image welcoming new users to the server, that contains the username and the avatar picture.
+   * A custom image welcoming new users to the server, that contains the username and the avatar picture.
+     * Uses Canvas.
+ * **Server Profiles:**
+   * Usage: '/profile' in any text channel.
+   * Will display information such as avatar picture, activity rate, join date, total number of messages sent and a Level display based on the user's chosen monster species / family.
